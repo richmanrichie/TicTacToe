@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="tac_button">
+        <item name="android:layout_width">40pt</item>
+        <item name="android:layout_height">40pt</item>
+        <item name="android:background">@color/white_button</item>
+        <item name="backgroundTint">@color/white</item>
+    </style>
+</resources>
